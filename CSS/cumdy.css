@@ -1,0 +1,238 @@
+body
+{
+color:black;
+font-family: sans-serif, arial, helvetica;
+background :#c2c2c2;
+width:1340px;
+
+
+}
+.title
+{
+font-size: 32px;
+font-family: sans-serif, arial, helvetica;
+text-align: left;
+-webkit-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-moz-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-ms-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-o-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+text-shadow: 0 1px 0 white, 10px 10px 7px black;
+}
+.logo1-box
+{
+width:300px;
+height:200px;
+overflow : hidden;
+float: left;
+}
+
+.logo2-box
+{
+width:300px;
+height:200px;
+overflow : hidden;
+float: left;
+margin-top:-200px;
+margin-right:0px;
+margin-left:1020px;
+}
+.heading-box
+{background: #666;
+border: 6px solid #c2c2c2;
+overflow: hidden;
+height:200px;
+width:1320px;
+}
+.container
+{background: #c2c2c2;
+width:1340px;
+overflow: hidden;
+margin:auto;
+}
+.separate-box
+{height:9px;
+width:1340px;
+background:#c2c2c2;
+overflow : hidden;
+}
+
+.main-body-box
+{line-height:0px;
+background: #666;
+border: 6px solid #000000;
+overflow: hidden;
+width:1320px;
+height:auto;
+}
+.welcome
+{width:auto;
+height:30px;
+margin-top:40px;
+line-height:0px;
+margin-left:50px;
+margin-right:20px;
+float:left;
+
+}
+.welcometext
+{padding-left:75px;
+font-size: 30px;
+font-family: sans-serif, arial, helvetica;
+-webkit-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-moz-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-ms-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+-o-text-shadow: 0 1px 0 white, 10px 10px 7px black;
+text-shadow: 0 1px 0 white, 10px 10px 7px black;
+color: #c2c2c2;
+}
+
+.heading-box
+{background: #666;
+border: 6px solid #000000;
+overflow: hidden;
+height:200px;
+width:1320px;
+}
+.sign-up-please ,
+.log-in-please ,
+.reset-text  ,
+.sign-up-text
+{
+font-size: 20px;
+color: dark;
+font-family: sans-serif, arial, helvetica;
+text-align: left;
+-webkit-text-shadow: 0 1px 0 white;
+-moz-text-shadow: 0 1px 0 white;
+-ms-text-shadow: 0 1px 0 white;
+-o-text-shadow: 0 1px 0 white;
+text-shadow: 0 1px 0 white;
+}
+.sign-up-please
+{color: #c2c2c2;
+}
+.sign-up-box ,
+.log-in-box,
+.reset-box
+{
+width:auto;
+height:auto;
+background: #03f4fa;
+background: -webkit-linear-gradient(top,#03f4fa,#0646ea);
+background: -moz-linear-gradient(top,#03f4fa,#0646ea);
+background: -ms-linear-gradient(top,#03f4fa,#0646ea);
+background: -o-linear-gradient(top,#03f4fa,#0646ea);
+background: linear-gradient(top,#03f4fa,#0646ea);
+overflow: hidden;
+margin:15px;
+border: 4px solid white;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+-ms-border-radius: 10px;
+-o-border-radius: 10px;
+border-radius: 10px;
+-webkit-box-shadow: 15px 15px 10px black;
+-moz-box-shadow: 15px 15px 10px black;
+-ms-box-shadow: 15px 15px 10px black;
+-o-box-shadow: 15px 15px 10px black;
+box-shadow: 15px 15px 10px black;
+
+float:left;
+}
+.log-in-box
+{
+overflow: hidden;
+margin-left:0px;
+margin-top:-90px;
+margin-right:20px;
+border: 4px solid white;
+float:right;
+}
+.hidden
+{
+position:absolute;
+width:0px;
+height:0px;
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-top:0px;
+float:left;
+overflow:hidden;
+display:inline;
+}
+.incorrect 
+{position:absolute;
+width:300px;
+height:auto;
+margin-left:1000px;
+margin-top:85px;
+}
+.incorrect h3 ,
+.do-not-match h3
+{color:#f36ccc;
+font-size: 16px;
+font-family: sans-serif, arial, helvetica;
+}
+
+
+.resetpassword
+{
+width:160px;
+margin-left:1000px;
+margin-top:-280px;
+background:none;
+float:left;
+}
+.resetusername
+{
+width:160px;
+margin-left:1150px;
+margin-top:-280px;
+background:none;
+float:left;
+}
+.resetpassword  h3  ,
+.resetusername h3 ,
+.create-new-account h3 ,
+.login h3 ,
+.change-to-email h3 
+{
+color:#03f4fa;
+font-size:16px;
+font-family: sans-serif, arial, helvetica;
+}
+
+.resetpassword h3 a ,
+.resetusername h3 a,
+.create-new-account h3 a ,
+.login h3 a ,
+.change-to-email h3 a
+{
+font-size: 16px;
+color:#cccccc;
+text-decoration:none;
+}
+.resetpassword h3 a:hover ,
+.resetusername h3 a:hover,
+.create-new-account h3 a:hover ,
+.login h3 a:hover,
+.change-to-email h3 a:hover 
+{color:#03f4fa;
+text-decoration:underline;
+}
+
+td
+{
+padding:5px;
+}
+.tdnone
+{background:none;
+}
+.tdcolor
+{background:rgba(243,108,204,.9);
+}
+
+
+
+

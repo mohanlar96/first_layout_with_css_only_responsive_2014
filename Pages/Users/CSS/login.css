@@ -1,0 +1,127 @@
+.menubutton:hover
+{background:#edb7ff;
+}
+.menutext:hover
+{
+text-decoration:underline;
+}
+.menutext
+{font-weight:bold;
+color:balck;
+font-weight:bold;
+font-size: 15px;
+font-family: sans-serif, arial, helvetica;
+text-align: center;
+}
+
+.profile_text
+{folat:left;
+line-height:0px;
+color:white;
+text-align:right;
+font-size: 25px;
+font-family: sans-serif, arial, helvetica;
+}
+.profile_name_box
+{position:absolute;
+width:290px;
+height:50px;
+margin-top:-10px;
+margin-left:570px;
+float:left;
+
+}
+.menubuttonlive
+{width:70px;
+height:30px;
+margin-top:70px;
+line-height:0px;
+margin-left:50px;
+margin-right:20px;
+background: #03f4fa;
+-webkit-border-radius: 7px;
+-moz-border-radius: px;
+-o-border-radius: 7px;
+-ms-border-radius: 7px;
+border-radius: 7px;
+float:left;
+-webkit-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-moz-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-o-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-ms-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+
+}
+
+
+.profile
+{
+width:145px;
+height:145px;
+float:left;
+margin-top:-25px;
+padding-left:8px;
+
+}
+.menubutton
+{
+width:70px;
+height:30px;
+margin-top:70px;
+line-height:0px;
+margin-left:25px;
+margin-right:10px;
+background: silver;
+-webkit-border-radius: 7px;
+-moz-border-radius: px;
+-o-border-radius: 7px;
+-ms-border-radius: 7px;
+border-radius: 7px;
+float:left;
+-webkit-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-moz-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-o-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+-ms-box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+box-shadow: 
+0 0 0 3px white,
+10px 10px 5px black ;
+
+}
+.left-menu-box
+{width:297px;
+overflow: hidden;
+height:500px;
+float: left;
+background:#959595;
+border-right: 3px solid #c2c2c2;
+}
+
+.right-chat-box
+{width:297px;
+height:500px;
+float:left;
+position:absolute;
+margin-left:1020px;
+background:#959595;
+border-left: 3px solid #c2c2c2;
+}
+
+

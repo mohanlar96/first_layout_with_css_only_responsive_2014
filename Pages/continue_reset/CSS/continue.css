@@ -1,0 +1,30 @@
+h2 
+{
+color:white;
+font-size: 18px;
+font-family: sans-serif, arial, helvetica;
+}
+.digit
+{position:absoulte;
+background:#cccccc;
+margin-left:500px;
+margin-top:40px;
+padding:15px;
+float:left;
+}
+.do-not-match
+{position:absoulte;
+margin-left:850px;
+margin-top:-70px;
+background:none;
+float:left;
+}
+.change-to-email
+{position:absoulte;
+margin-left:500px;
+margin-top:20px;
+background:none;
+float:left;
+}
+
+

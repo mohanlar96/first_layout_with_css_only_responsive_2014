@@ -1,0 +1,41 @@
+.main-body-box
+{height:400px;
+}
+.log-in-box ,
+.reset-box
+{
+position:absolute;
+overflow: hidden;
+margin-left:500px;
+margin-top:50px;
+}
+.incorrect
+{position:absolute;
+margin-left:500px;
+margin-top:230px;
+background:none;
+float:left;
+}
+.resetpassword ,
+.create-new-account
+{
+position:absolute;
+margin-left:500px;
+margin-top:300px;
+background:none;
+float:left;
+
+}
+.resetusername ,
+.login
+{
+position:absolute;
+margin-left:670px;
+margin-top:300px;
+background:none;
+float:left;
+}
+
+
+
+
